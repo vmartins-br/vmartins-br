@@ -11,7 +11,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos, scripts e documentaç�
 - Após entender a importância do GitHub para versionamento e colaboração, decidi migrar meus projetos antigos (armazenados em arquivos do Drive ou scripts soltos) para cá, aplicando **boas práticas de commits** e organização.  
 
 - Cada projeto está documentado e organizado em pastas específicas, como:  
-  - **PUC Minas**: Projetos desenvolvidos durante a faculdade, com links para documentações no Google Drive.  
+  - **Faculdade**: Projetos desenvolvidos durante a faculdade PUC Minas, com explicações no README.md e links para documentações no Google Drive.  
   - **Spark**: Scripts e prints de projetos realizados com Spark e PySpark, utilizando terminal bash no Linux.  
   - **SQL Server**: Scripts e documentações do meu projeto de mini-ERP desenvolvido com SQL Server.  
 
